@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Doggo</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu turpis ac lorem congue euismod. Quisque non feugiat ante. Mauris risus felis, maximus sed diam quis, rhoncus rutrum quam. In iaculis, arcu in egestas tempus, lectus metus facilisis turpis, vel tristique nisi massa ac tortor. Praesent in ligula ac est efficitur eleifend. Sed risus turpis, molestie quis scelerisque ac, mollis sed tortor. Pellentesque in viverra urna. Curabitur consequat dolor in quam placerat lacinia. Etiam consequat leo ac libero auctor, vitae maximus risus efficitur. Quisque venenatis urna at sollicitudin elementum. Nam ac auctor est. Proin blandit mauris leo</string>
+    <string name="dog_photo">Dog photo</string>
+    <string name="back_button">Back button</string>
+</resources>
