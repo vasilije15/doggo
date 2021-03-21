@@ -9,6 +9,11 @@ Basic features are:
 - Show a gallery view of all dog photos
 - Show a detail view for a single dog photo
 
+<p align="center">
+  <a href="https://github.com/vasilije15/doggo">
+    <img src="app/src/main/res/drawable/doggo.jpg" alt="Logo" width="80" height="80">
+  </a>
+
  <h3 align="center">Doggo App</h3>
 <p align="center">
   <a href="https://github.com/vasilije15/doggo/tree/master/screenshots">
